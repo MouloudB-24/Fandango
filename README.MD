@@ -4,5 +4,5 @@ Ce projet analyse les biais potentiels dans les évaluations des films sur Fanda
 
 ## 📊 Données
 Les données proviennent de l'article de FiveThirtyEight :  
-[Fandango Movie Ratings](https://github.com/fivethirtyeight/data/tree/master/fandango)
+[Fandango Movie Ratings](https://fivethirtyeight.com/features/fandango-movies-ratings/)
 
